@@ -1,3 +1,9 @@
+## The Wi-Fi connection password for Lora_Gateway_release_bin_v1.0 is 12345678.
+
+## The Wi-Fi connection password for Lora_Gateway_release_bin_v2.0 is aaaabbbb.
+
+## The firmware of zheg wifi-test can test whether your device's Wi-Fi is working properly. The Wi-Fi name is "ESP32 AP" and the password is "aaaabbbb". After connecting, check whether there is an IP address output on the serial port. If there is, it is working properly.
+
 # How to install the factory demo firmware with flash download tool?
 
 #### 1.Preparation:
